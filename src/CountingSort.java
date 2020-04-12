@@ -23,5 +23,7 @@ public class CountingSort
         for (int j = 0; j < a.length; ++j) {
             System.out.println(output[j]);
         }
+        
+        System.out.println();
     }
 }
